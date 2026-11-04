@@ -1,0 +1,6 @@
+{
+  "name": "사내 회의실 자동 예약 관리 시스템",
+  "description": "사내 임직원과 총무/IT 관리자를 위한 자동화된 스마트 회의실 예약 및 자원 관리 시스템",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
